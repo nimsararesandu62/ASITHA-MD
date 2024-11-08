@@ -34,5 +34,5 @@ module.exports = {
 SESSION_ID,
 GITHUB_USERNAME,
 GITHUB_AUTH_TOKEN,
-MONGODB: process.env.MONGODB || "mongodb+srv://myrender971:iwS8N2qB3Q8wMw83@cluster0.he9fd.mongodb.net/"    
+MONGODB: process.env.MONGODB || "mongodb://mongo:tgTKxCdKUFfnYKROyNLayOZlwNXMNOXJ@junction.proxy.rlwy.net:30401"    
 };
